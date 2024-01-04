@@ -87,14 +87,14 @@
 <!--UI Tools -->
 <h3 align="left">UI Tools:</h3>
 <p align="left">
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>   
-</a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-photoshop-4238646-3516519.png?f=webp&w=256" alt="photoshop" width="40" height="40"/> </a>
+</a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-illustrator-4238636-3516509.png?f=webp&w=256" alt="illustrator" width="40" height="40"/> </a>
 </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/adobe-xd-icon-512x512-w8f2hoan.png" alt="xd" width="40" height="40"/>
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -103,3 +103,5 @@
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
 </a>
 </p>
+
+
