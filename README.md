@@ -1,107 +1,144 @@
-<h1 align="center">Hi 👋, I'm Kerolos Zakaria</h1>
-<h3 align="center">A passionate Front-End Developer from Egypt</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [**MakanE**](https://makane.com/eg-en) & [**ExpandCart**](https://expandcart.com/)
+```
+██╗  ██╗███████╗██████╗  ██████╗ ██╗      ██████╗ ███████╗
+██║ ██╔╝██╔════╝██╔══██╗██╔═══██╗██║     ██╔═══██╗██╔════╝
+█████╔╝ █████╗  ██████╔╝██║   ██║██║     ██║   ██║███████╗
+██╔═██╗ ██╔══╝  ██╔══██╗██║   ██║██║     ██║   ██║╚════██║
+██║  ██╗███████╗██║  ██║╚██████╔╝███████╗╚██████╔╝███████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
+```
 
-- 🌱 I’m currently learning **Node.js**
+# Hey there, I'm **Kerolos Zakaria**
 
-- 👨‍💻 All of my projects are available at [**My Website**](https://keroloszakaria.surge.sh/)
+### ✦ Front-End Engineer · Vue & Nuxt Specialist · UI Architect  ✦
 
-- 📫 How to reach me **keroloszakaria2@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+beautiful+web+experiences+%F0%9F%8C%90;React+%7C+Vue+%7C+Node.js+%7C+TypeScript;System+Design+%7C+Design+Patterns+%7C+AI+%F0%9F%A4%96;Turning+complex+ideas+into+elegant+solutions+%E2%9C%A8" alt="Typing SVG" />
 
-- 📄 Know about my experiences [**My Resume** ](https://drive.google.com/file/d/1HTZZ63nUPGkVYKZnwAVSeN6GHliH8Zxd/view?usp=sharing)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kerolos-zakaria-ba239a18b" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerolos-zakaria-ba239a18b" height="30" width="40" />
-</a>
-<a href="https://www.upwork.com/freelancers/keroloszakaria" target="blank">
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-upwork-3629131-3030271.png?f=webp&w=256" alt="kerolos-zakaria-ba239a18b" width="40" />
-</a>
+---
+
+## About Me
+
+```javascript
+const kerolos = {
+  role:        "Full-Stack Developer",
+  location:    "Egypt 🇪🇬",
+  currentWork: "Wakeb",
+  exploring:   ["Node.js", "System Design", "AI & LLMs", "Design Patterns"],
+  portfolio:   "https://keroloszakaria.surge.sh/",
+  contact:     "keroloszakaria2@gmail.com",
+  passion:     "Building scalable systems with beautiful UIs"
+};
+```
+
+---
+
+## Currently Working At
+
+<div align="center">
+  <a href="https://wakeb.tech/">
+    <img src="https://img.shields.io/badge/Wakeb%20Tech-%230A0A0A?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🧠 Currently Exploring
+
+<table>
+  <tr>
+    <td align="center"><b>Node.js</b><br/><sub>Backend & APIs</sub></td>
+    <td align="center"><b>System Design</b><br/><sub>Scalable Architecture</sub></td>
+    <td align="center"><b>AI & LLMs</b><br/><sub>Intelligent Apps</sub></td>
+    <td align="center"><b>Design Patterns</b><br/><sub>Clean Code</sub></td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+### HTML & CSS
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bulma-%2300D1B2?style=for-the-badge&logo=bulma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Materialize-%23EE6E73?style=for-the-badge&logo=material-design&logoColor=white"/>
 </p>
 
-<h3 align="left">HTML And CSS Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-</a> 
-<a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
-</a> 
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
-</a
+### JavaScript & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-%2300DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-%23FF6384?style=for-the-badge&logo=chart.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Babel-%23F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pug-%23A86454?style=for-the-badge&logo=pug&logoColor=white"/>
 </p>
 
-
-
-
-<!--Javascript Tools -->
-<h3 align="left">Javascript Tools and Frameworks:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-</a> 
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
-</a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-</a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-10-1175155.png?f=webp&w=256" alt="jquery" width="40" height="40"/> 
-</a>
-
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
-</a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
-</a> 
+### Backend, Architecture & AI
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-%236C3483?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-%23E74C3C?style=for-the-badge&logo=abstract&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-%23000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-%23009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-<!--UI Tools -->
-<h3 align="left">UI Tools:</h3>
-<p align="left">
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-photoshop-4238646-3516519.png?f=webp&w=256" alt="photoshop" width="40" height="40"/> </a>
-</a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-illustrator-4238636-3516509.png?f=webp&w=256" alt="illustrator" width="40" height="40"/> </a>
-</a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-<img src="https://static-00.iconduck.com/assets.00/adobe-xd-icon-512x512-w8f2hoan.png" alt="xd" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-</a>
+### Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sketch-%23F7B500?style=for-the-badge&logo=sketch&logoColor=black"/>
 </p>
 
+---
 
+## GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=keroloszakaria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=keroloszakaria&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroloszakaria&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white)](https://keroloszakaria.surge.sh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerolos-zakaria-ba239a18b)
+[![Upwork](https://img.shields.io/badge/Upwork-%2314A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/keroloszakaria)
+[![Resume](https://img.shields.io/badge/Resume-%23EA4335?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1HTZZ63nUPGkVYKZnwAVSeN6GHliH8Zxd/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keroloszakaria2@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Code is like humor. When you have to explain it, it's bad."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=keroloszakaria&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+*Feel free to star some repos if you find them helpful!*
+
+</div>
